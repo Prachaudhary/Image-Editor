@@ -1,0 +1,11 @@
+D:\DOWNLOAD\window\image editor\image editor\bin\Debug\image editor.exe.config
+D:\DOWNLOAD\window\image editor\image editor\bin\Debug\image editor.exe
+D:\DOWNLOAD\window\image editor\image editor\bin\Debug\image editor.pdb
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image editor.csproj.AssemblyReference.cache
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image editor.csproj.SuggestedBindingRedirects.cache
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image_editor.Form1.resources
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image_editor.Properties.Resources.resources
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image editor.csproj.GenerateResource.cache
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image editor.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image editor.exe
+D:\DOWNLOAD\window\image editor\image editor\obj\Debug\image editor.pdb
